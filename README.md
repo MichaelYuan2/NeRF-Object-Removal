@@ -1,0 +1,1 @@
+# NeRF-Object-Removal
